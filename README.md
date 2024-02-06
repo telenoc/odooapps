@@ -1,0 +1,2 @@
+# odooapps
+TeleNoc odoo apps
